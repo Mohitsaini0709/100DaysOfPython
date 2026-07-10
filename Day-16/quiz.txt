@@ -1,0 +1,10 @@
+What is the correct file extension for Python files?|.py
+Which keyword is used to create a function in Python?|def
+Which function is used to take input from the user?|input
+Which function is used to display output on the screen?|print
+What symbol is used for comments in Python?|#
+Which data type is used to store True or False values?|bool
+Which loop is used when the number of iterations is known?|for
+Which keyword is used for conditional statements in Python?|if
+Which function is used to find the length of a string or list?|len
+Which keyword is used to stop a loop immediately?|break
