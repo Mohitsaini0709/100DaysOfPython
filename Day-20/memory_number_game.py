@@ -30,8 +30,8 @@ print("\nCorrect Numbers:", computer)
 print("Your Score:", score, "/10")
 
 if score >= 5:
-    print("🏆 Excellent!")
+    print(" Excellent!")
 elif score == 4 or score  == 3:
-    print("👍 Good Job!")
+    print(" Good Job!")
 else:
-    print("😅 Better Luck Next Time!")
+    print("Better Luck Next Time!")
